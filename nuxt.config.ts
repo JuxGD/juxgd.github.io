@@ -4,6 +4,13 @@ export default defineNuxtConfig({
   compatibilityDate: '2024-04-03',
   devtools: { enabled: true },
   app:{
-    baseURL: '/JuxGD/'
+    baseURL: '/JuxGD/',
+    head: {
+      htmlAttrs: { lang: 'en' },
+      link: [
+        { rel: 'me', href: 'https://catodon.social/@juxgd' },
+        { rel: 'me', href: 'https://mastodon.social/@juxgd' }
+      ],
+    },
   }
 })
