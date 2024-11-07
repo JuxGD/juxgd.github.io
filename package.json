@@ -1,0 +1,25 @@
+{
+  "name": "juxgd",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "nuxt": "^3.13.2",
+    "vue": "latest",
+    "vue-router": "latest"
+  },
+  "devDependencies": {
+    "@typescript-eslint/parser": "^5.62.0",
+    "eslint": "^9.13.0",
+    "prettier": "^3.3.3",
+    "prettier-eslint": "^16.3.0",
+    "typescript": "^4.9.5",
+    "vue-eslint-parser": "^9.4.3"
+  }
+}
