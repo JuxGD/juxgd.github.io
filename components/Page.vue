@@ -76,6 +76,9 @@
       </li>
     </ul>
   </div>
+
+  <code><a rel="me" href="https://catodon.social/@JuxGD"/></code>
+
 </template>
 
 <style lang="scss"></style>
