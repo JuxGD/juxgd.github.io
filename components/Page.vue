@@ -66,8 +66,12 @@
         with <a href="https://fed.brid.gy">Bridgy Fed</a>)
       </li>
       <li>
-        My <a rel="me" href="https://twitter.com/JReplicat72895">Twitter</a>, where I do
-        absolutely nothing, it's there just for convenience
+        My <a rel="me" href="https://twitter.com/JReplicat72895">Twitter</a>, and
+        <a href="https://bksy.app/profile/did:plc:5vn2p4alicenl3d4ahcphb6u">Bluesky</a>,
+        where I do absolutely nothing they're there just for convenience (<a
+          href="https://catodon.social/@JuxGD.bsky.social.bsky.brid.gy"
+          >Bluesky bridged to the Fediverse</a
+        >)
       </li>
       <li>
         <a rel="me" href="https://juxgd.github.io/music"
