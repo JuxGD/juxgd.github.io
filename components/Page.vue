@@ -60,7 +60,7 @@
       <li>
         My <a rel="me" href="https://bandwagon.fm/@Jux">Bandwagon</a> (Fediverse) and
         <a rel="me" href="https://audius.co/JuxGD">Audius</a> where I post my music (<a
-          href="https://bsky.app/profile/Jux.bandwagon.fm.ap.brid.gy"
+          href="https://bsky.app/profile/did:plc:coswmjynfekqk3uklkl2fi54"
           >Bandwagon bridged to Bluesky</a
         >
         with <a href="https://fed.brid.gy">Bridgy Fed</a>)
