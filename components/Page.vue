@@ -41,7 +41,7 @@
       <li>
         My <a rel="me" href="https://catodon.social/@JuxGD">main Fediverse account</a>,
         where you can follow and interact with me (<a
-          href="https://bsky.app/profile/JuxGD.catodon.social.ap.brid.gy"
+          href="https://bsky.app/profile/did:plc:foqgvnajjrggdp5s7fddi7hy"
           >bridged to Bluesky</a
         >
         with <a href="https://fed.brid.gy">Bridgy Fed</a>) (<a
@@ -52,7 +52,7 @@
       <li>
         My <a rel="me" href="https://mastodon.social/@JuxGD">alt Fediverse account</a>,
         idk it's kinda just there go follow (<a
-          href="https://bsky.app/profile/JuxGD.mastodon.social.ap.brid.gy"
+          href="https://bsky.app/profile/did:plc:33yxtiqyyklztkjvingdyjvz"
           >bridged to Bluesky</a
         >
         with <a href="https://fed.brid.gy">Bridgy Fed</a>)
@@ -67,7 +67,7 @@
       </li>
       <li>
         My <a rel="me" href="https://twitter.com/JReplicat72895">Twitter</a>, and
-        <a href="https://bksy.app/profile/did:plc:5vn2p4alicenl3d4ahcphb6u">Bluesky</a>,
+        <a href="https://bsky.app/profile/did:plc:5vn2p4alicenl3d4ahcphb6u">Bluesky</a>,
         where I do absolutely nothing they're there just for convenience (<a
           href="https://catodon.social/@JuxGD.bsky.social.bsky.brid.gy"
           >Bluesky bridged to the Fediverse</a
