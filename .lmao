@@ -3,3 +3,5 @@ rm -r ./docs
 cp -r ./.output/public ./docs
 grep -rwl "<link rel=\"prefetch\"" .output/public | xargs sed -i 's$<link rel="prefetch" href="[^"]*\.\(jpg\|png\|webm\|jpeg\|ttg\|svg\|gif\)">$$g'
 touch ./docs/.nojekyll
+mkdir ./docs/.well-known/
+echo "did:plc:5vn2p4alicenl3d4ahcphb6u" >> ./docs/.well-known/atproto-did
